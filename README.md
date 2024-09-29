@@ -2,7 +2,7 @@
 
 The purpose of this little project was to challenge myself to see what I could create in a day of coding.
 
-I decided to go with a demonstration of Snell's Law: $n_1\sin(alpha_1) = n_2\sin(alpha_2)$, as the mathematics was something that I was already familar with. Furthermore, I had a fairly good idea on how to visualise the rays in Python, this would be accomplished with Pygame. During the summer as a way of improving my comfort with coding in Python, I started to learn some more Python libraries, one of these was Pygame and I saw this mini-project as a means of testing my knowledge of it.
+I decided to go with a demonstration of Snell's Law: $n_1\sin(\alpha_1) = n_2\sin(\alpha_2)$, as the mathematics was something that I was already familar with. Furthermore, I had a fairly good idea on how to visualise the rays in Python, this would be accomplished with Pygame. During the summer as a way of improving my comfort with coding in Python, I started to learn some more Python libraries, one of these was Pygame and I saw this mini-project as a means of testing my knowledge of it.
 
 ## How the Code Works
 
