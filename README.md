@@ -20,5 +20,4 @@ This was because using a fixed coordinate system meant that, the angles required
 
 ## Future Improvements
 There are lot of potential developments the code could experience.
-For example, it would be interesting to explore more of optical theory, such as the ray path through different lenses.
-Or even try to create a program that is based on 'first-principles' like Fermat's theorem.
+For example, it would be interesting to explore more of optical theory, such as the ray path through different lenses, or adding some realism by adjusting the intensity (functionally in the program, opacity) of the ray depending on the optical density of the encountered material, or even try to create a program that is based on 'first-principles': Fermat's theorem.
