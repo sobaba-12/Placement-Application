@@ -51,9 +51,9 @@ def opticCalc(n1:float, n2:float, vecA:float, vecB:float, vecC=np.array([1,0]), 
     """
 
     if quadrant==1:
-        alphaTrans = np.arccos(np.dot(vecC,vecB)) # Angle between vecC and vecB
-        alphaI = np.arccos(np.dot(vecA,vecB)) - alphaTrans
-        alphaRefl = alphaTrans - alphaI
+        alphaTrans = np.arccos(np.dot(vecC,vecB))           # Angle between vecC and vecB
+        alphaI = np.arccos(np.dot(vecA,vecB)) - alphaTrans  # The angle that will be draw relative to vecC
+        alphaRefl = alphaTrans - alphaI                     # The reflected angle relative to vecC
         if n1/n2 > 1:
             alphaRefr = None
         else:
